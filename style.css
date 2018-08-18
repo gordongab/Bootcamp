@@ -1,0 +1,63 @@
+h {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    color: white;
+    display: inline;
+    padding-left: 20px;    
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    color: #333333;
+}
+
+body {
+    background-image: url("assets/bckgrnd.png");
+    background-repeat: repeat;
+
+}
+
+#gabe {
+    border-color: #2c5fa8;
+    border-image: 3px;
+}
+
+#sample1{
+    padding-left: 40px;
+    padding-bottom: 10px;
+    }
+
+
+#sample2{
+    padding-left: 40px;
+    padding-bottom: 10px;
+    padding-top:20px;
+}
+
+#sample3{
+    padding-left: 40px;
+    padding-bottom: 10px;
+}
+
+.secondhalf {
+    background-color: #969696;
+    opacity: 60%
+}
+
+.thirdhalf {
+    background-color: #969696;
+    opacity: 60%
+}
+
+
+#arrow {
+      
+    
+}
+
+footer {
+    border-top-color: #FFFFFF;
+    
+}
